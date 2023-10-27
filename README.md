@@ -43,3 +43,11 @@ https://github.com/DianPermana/Cryptography/assets/18004033/2c9a732d-8637-48d9-b
 
 # Thank You
 
+1. Mas Seno (Awesome Telco Tools)
+2. R & D Team Cipta Srigati Lestari
+3. https://github.com/pmoerenhout/comp128
+4. https://github.com/tunjos/java-crypto-utils
+5. https://github.com/snksoft/java-crc
+6. https://www.lddgo.net/en/encrypt/crc
+7. https://www.base64encode.org/
+
