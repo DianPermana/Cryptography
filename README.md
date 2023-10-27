@@ -1,10 +1,7 @@
 # Cryptography
 
-## Summary Results
-
-https://github.com/DianPermana/Cryptography/assets/18004033/2c9a732d-8637-48d9-b87d-fe6e5dea4a00
-
 ## By Definition
+
 *Cryptography* is the practice and study of secure communication techniques that allow for the transformation of information into a format that is unintelligible to unauthorized users, ensuring its confidentiality and integrity
 
 *HMAC* stands for "Hash-Based Message Authentication Code." It is a specific type of message authentication code (MAC) involving a cryptographic hash function and a secret key
@@ -12,6 +9,11 @@ https://github.com/DianPermana/Cryptography/assets/18004033/2c9a732d-8637-48d9-b
 *Hashing* is a process of converting data (often referred to as a "message") into a fixed-size string of characters, which is typically a hexadecimal number
 
 *Checksum* is a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage
+
+## Short Video
+
+https://github.com/DianPermana/Cryptography/assets/18004033/2c9a732d-8637-48d9-b87d-fe6e5dea4a00
+
 
 ## List
 
@@ -41,13 +43,22 @@ https://github.com/DianPermana/Cryptography/assets/18004033/2c9a732d-8637-48d9-b
 24. Hashing in Function Groovy (JMeter)
 25. RUN GSM Algorithm
 
-# Thank You
+## Custom JAR files in JMeter
+at COMP128 code https://github.com/pmoerenhout/comp128 Add this code in pom.xml or can download : https://github.com/DianPermana/Cryptography/blob/main/comp128-0.1.jar
+```
+    <!-- https://mvnrepository.com/artifact/org.apache.jmeter/ApacheJMeter_java -->
+    <dependency>
+      <groupId>org.apache.jmeter</groupId>
+      <artifactId>ApacheJMeter_java</artifactId>
+      <version>5.5</version>
+    </dependency>
+```
 
-1. Mas Seno (Awesome Telco Tools)
-2. R & D Team Cipta Srigati Lestari
-3. https://github.com/pmoerenhout/comp128
-4. https://github.com/tunjos/java-crypto-utils
-5. https://github.com/snksoft/java-crc
-6. https://www.lddgo.net/en/encrypt/crc
-7. https://www.base64encode.org/
+## Thank You
+1. Mas Seno (Awesome Telco Tools), for All R & D Team Cipta Srigati Lestari
+2. https://github.com/pmoerenhout/comp128
+3. https://github.com/tunjos/java-crypto-utils
+4. https://github.com/snksoft/java-crc
+5. https://www.lddgo.net/en/base/class?classID=3
+6. https://www.base64encode.org/
 
