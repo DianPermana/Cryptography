@@ -13,7 +13,8 @@
 *Checksum* is a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage
 
 ## Short Video
-https://github.com/DianPermana/Cryptography/assets/18004033/1b3e3301-4eb2-4d65-8814-5ccea7bd82ff
+
+https://github.com/DianPermana/Cryptography/assets/18004033/695c1a76-18d1-40f3-b604-fd3bd260c905
 
 
 ## List
