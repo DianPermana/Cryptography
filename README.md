@@ -1,5 +1,7 @@
 # Cryptography
 
+![Cryptography Aljazari Foundation](https://github.com/DianPermana/Cryptography/assets/18004033/f56b1b73-4719-4ae7-9d8a-a1274eb3fdf0)
+
 ## By Definition
 
 *Cryptography* is the practice and study of secure communication techniques that allow for the transformation of information into a format that is unintelligible to unauthorized users, ensuring its confidentiality and integrity
@@ -11,12 +13,10 @@
 *Checksum* is a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage
 
 ## Short Video
-
-https://github.com/DianPermana/Cryptography/assets/18004033/2c9a732d-8637-48d9-b87d-fe6e5dea4a00
+https://github.com/DianPermana/Cryptography/assets/18004033/1b3e3301-4eb2-4d65-8814-5ccea7bd82ff
 
 
 ## List
-
 1. JMeter Logging Basics
 2. JavaScript Functions
 3. Current Date in JavaScript
