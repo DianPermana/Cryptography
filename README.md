@@ -44,15 +44,16 @@ https://github.com/DianPermana/Cryptography/assets/18004033/1b3e3301-4eb2-4d65-8
 25. RUN GSM Algorithm
 
 ## Custom JAR files in JMeter
-at COMP128 code https://github.com/pmoerenhout/comp128 Add this code in pom.xml or can download : https://github.com/DianPermana/Cryptography/blob/main/comp128-0.1.jar
+at COMP128 code https://github.com/pmoerenhout/comp128 Add this code in pom.xml and then rebuild :
 ```
-    <!-- https://mvnrepository.com/artifact/org.apache.jmeter/ApacheJMeter_java -->
+<!-- https://mvnrepository.com/artifact/org.apache.jmeter/ApacheJMeter_java -->
     <dependency>
       <groupId>org.apache.jmeter</groupId>
       <artifactId>ApacheJMeter_java</artifactId>
       <version>5.5</version>
     </dependency>
 ```
+also can download : https://github.com/DianPermana/Cryptography/blob/main/comp128-0.1.jar Example save on DIR_YOUR_JMETER\apache-jmeter-5.5\lib\ext\comp128-0.1.jar
 
 ## Thank You
 1. Mas Seno (Awesome Telco Tools), for All R & D Team Cipta Srigati Lestari
