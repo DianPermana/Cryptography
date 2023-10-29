@@ -56,9 +56,9 @@ at COMP128 code https://github.com/pmoerenhout/comp128 Add this code in pom.xml 
 
 ## Thank You
 1. Mas Seno (Awesome Telco Tools), for All R & D Team Cipta Srigati Lestari
-2. https://github.com/pmoerenhout/comp128
-3. https://github.com/tunjos/java-crypto-utils
-4. https://github.com/snksoft/java-crc
+2. Pim Moerenhout at https://github.com/pmoerenhout/comp128
+3. tunjos at https://github.com/tunjos/java-crypto-utils
+4. snksoft at https://github.com/snksoft/java-crc
 5. https://www.lddgo.net/en/base/class?classID=3
 6. https://www.base64encode.org/
 
