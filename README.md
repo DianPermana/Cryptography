@@ -57,7 +57,7 @@ at COMP128 code https://github.com/pmoerenhout/comp128 Add this code in pom.xml 
 also can download : https://github.com/DianPermana/Cryptography/blob/main/comp128-0.1.jar Example save on DIR_YOUR_JMETER\apache-jmeter-5.5\lib\ext\comp128-0.1.jar
 
 ## Thank You
-1. Mas Seno (Awesome Telco Tools), for All R & D Team Cipta Srigati Lestari
+1. Mas Seno with TELCO TOOLS and All R&D Team Cipta Srigati Lestari => KARYA ANAK BANGSA
 2. Pim Moerenhout at https://github.com/pmoerenhout/comp128
 3. tunjos at https://github.com/tunjos/java-crypto-utils
 4. snksoft at https://github.com/snksoft/java-crc
